@@ -1,0 +1,118 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "best-household-budget-site-20261126-1457",
+  "phase": "dev",
+  "bundle_sha256": "7e5f44cdfa46de0688b9963f6ee512a495a0f843a911015c857ad8cd2d2f0d36",
+  "dataset_sha256": null,
+  "harness_version": "harness@2ded2f9e2884385a700132f1b7010c4c9070dd35930161ccf86b4bb1e96df813 node v26.13.1",
+  "scorer_version": "scorer@e649c17ebad662fccdd8ce9e5fcd838ed4433324440a2314bafb8456a941784d program@516eeaf2af79dcb4d226d2bde664e1981d5ad11880bf0f7379fe9f4b35efac71",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "e993f2b89ed2dcb240f6d8e2aab506d61e74834fd65e3046ae578d7e54e0a1bc",
+      "size": 119805
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "77eb17a4633504a7b4c868d873f4d60fd3504c85b041f8ee0b40e95f14447d1d",
+      "size": 45218097
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "0a9629e4d659f646daaf6271382042bbd5727da294536ed93d4a795aee708b83",
+      "size": 71295
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "359185fd60c17da86cdba3aae32bfa35226757a59a86452066dbe43549273ed4",
+      "size": 21322
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "6863149624fe24441360e8daab8d4fc91e58aa34ea49e9add182c765d0e2a26d",
+      "size": 21322
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "108ffa7c7f16550dde38737c9753cd9ac0edbeb73614b1bfcc05edb2d419d44b",
+      "size": 3262008
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "9c5e8884491b025f0aaf11b593e79916cfe18542857c5a9db910d6dd17680489",
+      "size": 85
+    },
+    {
+      "path": "starter/LICENSE",
+      "sha256": "babfa6d8ce941605e507993e42790165d6c98c48365eedbdcdd5350ed6e0ed55",
+      "size": 1095
+    },
+    {
+      "path": "starter/app/data.js",
+      "sha256": "8e54e1aff66e8cc23fcf48fa57f39c5574740c2f690b78c4d8e72abfac6b5dac",
+      "size": 6530
+    },
+    {
+      "path": "starter/app/index.html",
+      "sha256": "03a9b050e60980ad7f00eed0aff8a9bf4e50bb1ae1edd1bac15d203e9d3836a2",
+      "size": 406
+    },
+    {
+      "path": "starter/app/main.js",
+      "sha256": "7900b7b7015c7704e4adfa9665240708e1ace0865da6fd0f7e3afbdaebb49689",
+      "size": 1024
+    },
+    {
+      "path": "starter/app/style.css",
+      "sha256": "3a3e5bbe6ade345df668e7be70424e041f7c3ac6029ea62304f702b84a6f1b7b",
+      "size": 810
+    },
+    {
+      "path": "starter/app/views.js",
+      "sha256": "5a785ff0bc63046c9bb984abee777ea8c85fd6a21cb00bb2757e77409d88eb19",
+      "size": 1201
+    },
+    {
+      "path": "starter/main.ts",
+      "sha256": "6d5a52d087a20d8feb8e322daea3456e15c63aad4ebafa6794954c3bb2e10bb2",
+      "size": 2449
+    },
+    {
+      "path": "starter/screenshots/1-recipes.jpg",
+      "sha256": "af92b64ed3f08ec4a24ae6743fa1bdb54cdfd239ed241e93b2189cb28bf12248",
+      "size": 60563
+    },
+    {
+      "path": "starter/screenshots/2-recipe.jpg",
+      "sha256": "6467f309adcf78d1385dddd2f28e0010d90b79d66ecf79c54222131e85c5a5e6",
+      "size": 69332
+    },
+    {
+      "path": "starter/screenshots/3-recipe-phone.jpg",
+      "sha256": "1ec58425efa39168ec4a005c855896330334b886ed37c3439914a5d69ea3586b",
+      "size": 47531
+    },
+    {
+      "path": "starter/serve.ts",
+      "sha256": "7b91854fe3390992f2cb85fd158e1f3bad9a298ab2b51adc1ff54d715420fb1a",
+      "size": 2416
+    },
+    {
+      "path": "starter/shots.json",
+      "sha256": "d798332b0143f73dbc1bfffe135b08baf7e57c25bb129228942f9680bd68725f",
+      "size": 329
+    },
+    {
+      "path": "starter/vendor/makefun-frontend.ts",
+      "sha256": "4c8da1c8e76490b3a847670f49137d3ec23953e3c988fe6a6cb320fce5739240",
+      "size": 85533
+    }
+  ]
+}
